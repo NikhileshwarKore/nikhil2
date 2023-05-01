@@ -1,4 +1,4 @@
 abcd
-alpha beta 
+beta 
 ok,
-i am adding more text to see the version control using this using blame
+i am adding more text to see the version control using this using blame and also deleting alpha...
