@@ -29,4 +29,6 @@ gm
 good afternoon
 hii
 
-hi, weather is cool
+hi, weather is cool 
+whatever im typing it is pulling in vsc
+yes or no ?
