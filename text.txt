@@ -32,3 +32,4 @@ hii
 hi, weather is cool 
 whatever im typing it is pulling in vsc
 yes or no ?
+added using vsc a  new branch, activating using some changes
